@@ -45,7 +45,7 @@ function App() {
               </div>
             ))
           ) : (
-            <p className="notFoundText">No results found</p>
+            <p className="notFoundText">No topics found</p>
           )}
         </div>
       </div>
